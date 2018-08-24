@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="kenyon-action" />
+        <module name="kenyon-chat" />
+        <module name="kenyon-eureka" />
+        <module name="kenyon-tribune" />
+        <module name="kenyon-users" />
+        <module name="kenyonactionParty" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="kenyon-action" target="1.8" />
+      <module name="kenyon-chat" target="1.8" />
+      <module name="kenyon-eureka" target="1.8" />
+      <module name="kenyon-tribune" target="1.8" />
+      <module name="kenyon-users" target="1.8" />
+      <module name="kenyonactionParty" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

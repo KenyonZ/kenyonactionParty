@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kenyon-action/kenyon-action.iml" filepath="$PROJECT_DIR$/kenyon-action/kenyon-action.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kenyon-chat/kenyon-chat.iml" filepath="$PROJECT_DIR$/kenyon-chat/kenyon-chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kenyon-eureka/kenyon-eureka.iml" filepath="$PROJECT_DIR$/kenyon-eureka/kenyon-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kenyon-tribune/kenyon-tribune.iml" filepath="$PROJECT_DIR$/kenyon-tribune/kenyon-tribune.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kenyon-users/kenyon-users.iml" filepath="$PROJECT_DIR$/kenyon-users/kenyon-users.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kenyonactionParty.iml" filepath="$PROJECT_DIR$/kenyonactionParty.iml" />
+    </modules>
+  </component>
+</project>

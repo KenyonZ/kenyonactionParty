@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/kenyon-action" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kenyon-chat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kenyon-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kenyon-tribune" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kenyon-users" charset="UTF-8" />
+  </component>
+</project>
